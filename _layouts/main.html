@@ -19,6 +19,14 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+  
+  <div class="navigation">
+    <ul>
+      {% for category in site.pages %}
+        <li><a style='font-weight: 300;' href="{{ site.baseurl | prepend: url }}/pages/{{ page | first | prepend: site.baseurl }}">{{ page | first }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
 
   <!-- {% include ads.html %} -->
 
