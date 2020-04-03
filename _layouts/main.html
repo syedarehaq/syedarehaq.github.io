@@ -20,11 +20,23 @@ layout: default
     </ul>
   </div>
   
-  <div class="navigation">
-    <ul>
-      {% for page in site.pages %}
-        <li><a style='font-weight: 300;' href="{{ site.baseurl | prepend: url }}/pages/{{ page | first | prepend: site.baseurl }}">{{ page | first }}</a></li>
-      {% endfor %}
+  div class="navbar">
+    <a class="navbar-brand" href="#">
+      <img src="_static/logos/logo_1.png" \>
+    </a>
+    <ul class="nav navbar-nav">
+      <li>
+        <a href="#">Home
+          <img src="_static/logos/button_orange.png">
+        </a>
+        </li>
+      <li><a href="gallery.html">Gallery
+          <img src="_static/logos/button_blue.png">
+          </a>
+      </li>
+      <li><a href="about.html">About
+          <img src="_static/logos/button_green.png">
+          </a></li>
     </ul>
   </div>
 
