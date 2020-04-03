@@ -22,7 +22,7 @@ layout: default
   
   <div class="navigation">
     <ul>
-      {% for category in site.pages %}
+      {% for page in site.pages %}
         <li><a style='font-weight: 300;' href="{{ site.baseurl | prepend: url }}/pages/{{ page | first | prepend: site.baseurl }}">{{ page | first }}</a></li>
       {% endfor %}
     </ul>
