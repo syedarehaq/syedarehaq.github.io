@@ -922,6 +922,10 @@ table tfoot td {
   text-decoration: underline;
 }
 
+.article-page a.anchorjs-link {
+  color: #dfe2e5;
+}
+
 .highlighter-rouge {
   color: #ce887b;
   font-weight: 400;
