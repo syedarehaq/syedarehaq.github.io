@@ -34,7 +34,7 @@ plugins:
  # - jekyll-readme-index
 
 paginate: 8
-paginate_path: "/page/:num"
+paginate_path: "blog/page:num/"
 
 # readme_index:
 #   enabled:          false
