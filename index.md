@@ -3,7 +3,7 @@ layout: non_blog_post
 img:
 ---
 
-# Hello!
+## About Me
 
 I am a PhD Student in Network Science, the first such PhD program in US. 
 
@@ -22,7 +22,9 @@ Institute of Business Administration,
 University of Dhaka  
 Dhaka, Bangladesh
 
-## Materials
-[Download CV (pdf)](/assets/files/Mattsson_CV.pdf)
+## Publications
 
+
+<!--
  [research](/pages/research.html)
+-->
