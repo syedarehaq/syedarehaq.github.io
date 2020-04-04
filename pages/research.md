@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: main
+layout: non_blog_post
 ---
 
 # Research
