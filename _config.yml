@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Author Settings
 author: Syed Arefinul Haque # add your name
 author-img: avatar.jpg # add your photo
-about-author:  PhD Student in the Network Science Institute @ Northeastern Univeristy (Boston, MA, USA).  I study gender bias and science of science using network science methods. # add description
+about-author:  Network Science PhD student @ Network Science Institute, Northeastern Univeristy, Boston, MA.  Studying gender bias and science of science using network science methods. # add description
 social-twitter: syedarehaq # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: syedarehaq # add your Github handle

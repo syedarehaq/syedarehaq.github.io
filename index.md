@@ -7,23 +7,23 @@ img:
 
 I am a PhD Student in Network Science, the first such PhD program in US. 
 
-# Education
+## Education
 
 
-Ph.D. Network Science (2021, expected)      
-Northeastern University
+Ph.D. in Network Science (2021, expected)\
+Northeastern University\
 Boston, MA, USA
 
-M.Sc. in Computer Science and Engineering
-United International University
+M.Sc. in Computer Science and Engineering (2015)\
+United International University\
 Dhaka, Bangladesh
 
-B.B.A in Finance (Minor: Marketing)
+B.B.A in Finance (Minor: Marketing) (2013)\
 Institute of Business Administration,
-University of Dhaka
+University of Dhaka\
 Dhaka, Bangladesh
 
-# Materials
+## Materials
 [Download CV (pdf)](/assets/files/Mattsson_CV.pdf)
 
  [research](/pages/research.html)
