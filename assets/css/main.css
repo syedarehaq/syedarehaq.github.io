@@ -926,6 +926,10 @@ table tfoot td {
   color: #dfe2e5;
 }
 
+.article-page a.anchorjs-link:hover {
+  color: #302d2d;
+}
+
 .highlighter-rouge {
   color: #ce887b;
   font-weight: 400;
