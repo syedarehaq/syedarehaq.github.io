@@ -9,7 +9,6 @@ I am a PhD Student in Network Science, the first such PhD program in US.
 
 ## Education
 
-
 Ph.D. in Network Science (2021, expected)  
 Northeastern University  
 Boston, MA, USA
