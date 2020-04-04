@@ -1,24 +1,27 @@
 ---
-title: Home
-layout: main
+layout: non_blog_post
+img:
 ---
 
 # Hello!
 
-I am a PhD Candidate in Network Science, and in May I will become one of the first to graduate from this innovative interdisciplinary program at Northeastern University. For my dissertation, I have delved into the most minute details of mobile money payment systems and built up a broadly applicable way to analyze large-scale transaction data. Along the way I have found that the movement of money can be a *fascinating* perspective to take on Economics.     
-      
-*I am on the Economics job market and will be attending the 2020 ASSA meeting in San Diego.*
+I am a PhD Student in Network Science, the first such PhD program in US. 
 
-### Education
+# Education
 
-Ph.D. Network Science (2020, expected)      
+
+Ph.D. Network Science (2021, expected)      
 Northeastern University
+Boston, MA, USA
 
-B.S. Physics (2014)    
-B.A. International Relations (2014)     
-Lehigh University
+M.Sc. in Computer Science and Engineering
+United International University
+Dhaka, Bangladesh
 
-### Materials
+B.B.A in Finance (Minor: Marketing)
+Institute of Business Administration,
+University of Dhaka
+Dhaka, Bangladesh
 
-[Download Job Market Paper (pdf)](/assets/files/Mattsson_JMP.pdf)  
+# Materials
 [Download CV (pdf)](/assets/files/Mattsson_CV.pdf)
