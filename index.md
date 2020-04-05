@@ -3,7 +3,7 @@ layout: non_blog_post
 img:
 ---
 
-## About Me
+## About
 
 I am a PhD Student in Network Science, the first such PhD program in US. 
 
