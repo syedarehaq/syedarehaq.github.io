@@ -49,6 +49,11 @@ layout: default
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
       <ul>
+        {% if site.social-email %}
+          <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
+        {% else %}
+          <li class="email"><a href="mailto:example.david@blog.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+        {% endif %}
         {% if site.social-twitter %}
           <li><a id='twitter' href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% else %}
@@ -69,13 +74,11 @@ layout: default
         {% else %}
           <li class="linkedin"><a id='linkedin' href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
         {% endif %}
-        <!-- {% if site.social-email %}
-          <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
-        {% else %}
-          <li class="email"><a href="mailto:example.david@blog.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-        {% endif %} -->
+        <!--
         <li><a id='cv' href="{{ site.baseurl }}/assets/cv/syed_arefinul_haque_cv.pdf" target="_blank"><i class="fa fa-file-text-o"></i></a></li>
+        -->
         <li class="scholar"><a id='scholar' href="{{site.social-scholar}}" target="_blank"><i class="fa fa-google"></i></a></li>
+        
       </ul>
     </section> <!-- End Section Contact -->
     <div class="copyright">
