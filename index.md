@@ -5,9 +5,9 @@ img:
 
 ## About
 
-I am a fifth year PhD student at Northeastern University's Network Science PhD program. This interdiscplinary program allowed me to interact and collaborate with my mentors who come from diverse range of disciplines such as Physics, Sociology, Epidemiology, Computer Science, and Communication Studies. Currently I am using Network Science techniques to identify gender and racial diversity in researchers, and how ideas related to gender diversity move between one university to another. In the near past I have worked on epidemiology projects such as creating contact matrices for mobility modeling.
+Syed Arefinul Haque is a fifth year PhD student at Northeastern University's Network Science PhD program. This interdiscplinary program allowed him to interact and collaborate with mentors who come from diverse range of disciplines such as Physics, Sociology, Epidemiology, Computer Science, and Communication Studies. Currently he is using Network Science techniques to identify gender and racial diversity in researchers, and how ideas related to gender diversity move between one university to another. In the near past he has worked on epidemiology projects such as creating contact matrices for modeling spread of influenza like diseases.
 
-I am from Bangladesh where I completed my BBA in finance from IBA, University of Dhaka, and MSc in Computer Science from United International University.
+He is from Bangladesh where he completed BBA in finance from IBA, University of Dhaka, and MSc in Computer Science from United International University.
  
 
 ### Education
