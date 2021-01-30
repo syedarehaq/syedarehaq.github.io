@@ -1,4 +1,4 @@
-title: Syed Arefinul Haque, PhD Student - Network Science
+title: Syed Arefinul Haque, PhD Candidate - Network Science
 description: > # this means to ignore newlines until "baseurl:"
   Network Scientist and Researcher @ Network Science Institute, Northeastern University
 # permalink: ':title/'
@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Author Settings
 author: Syed Arefinul Haque # add your name
 author-img: avatar.jpg # add your photo
-about-author:  Network Science PhD student @ Network Science Institute, Northeastern Univeristy, Boston, MA.  Studying gender bias and science of science using network science methods. # add description
+about-author:  Network Science PhD candidate @ Network Science Institute, Northeastern Univeristy, Boston, MA.  Studying gender bias and science of science using network science methods. # add description
 social-twitter: syedarehaq # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: syedarehaq # add your Github handle
