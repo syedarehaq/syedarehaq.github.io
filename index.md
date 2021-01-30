@@ -29,11 +29,14 @@ Dhaka, Bangladesh
 
 ### Pre-prints
 
-* Cevik, M., **Haque, S. A.**, Manne, J., Kuppalli, K., Sax, P. E., Majumder, M. S. & Orkin C. (2020), Gender disparities in international COVID-19 clinical trial leadership  
-[[link]](https://www.medrxiv.org/content/10.1101/2020.08.02.20166751v2){:target="_blank"}
+
 
 
 ### Refereed Journal Articles
+
+* Cevik, M., **Haque, S. A.**, Manne, J., Kuppalli, K., Sax, P. E., Majumder, M. S. & Orkin C. (2020),  Gender disparities
+in COVID-19 clinical trial leadership. *Clinical Microbiology and Infection.*  
+[[link]](https://www.sciencedirect.com/science/article/pii/S1198743X20307850){:target="_blank"}
 
 * Hassan, M. K., Islam, L. & **Haque, S. A.** (2017), Degree distribution, rank-size distribution, and leadership persistence in mediation-driven attachment networks. *Physica
 A: Statistical Mechanics and its Applications*, 469, 23-30.  
