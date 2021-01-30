@@ -37,7 +37,7 @@ Dhaka, Bangladesh
 in COVID-19 clinical trial leadership. *Clinical Microbiology and Infection.*  
 [[link]](https://www.sciencedirect.com/science/article/pii/S1198743X20307850){:target="_blank"}
 
-* Mistry, D., Litvinova, M., y Piontti, A.P., Chinazzi, M., Fumanelli, L., Gomes, M.F., Haque, S. A., Liu, Q.H., Mu, K., Xiong, X.
+* Mistry, D., Litvinova, M., y Piontti, A.P., Chinazzi, M., Fumanelli, L., Gomes, M.F., **Haque, S. A.**, Liu, Q.H., Mu, K., Xiong, X.
 Halloran, M.E., Longini Jr., I. M., Merler S., Ajelli, M. & Vespignani A. (2021),  Gender disparities
 in COVID-19 clinical trial leadership. *Nature Communications.* 12(1), pp.1-12.
 [[link]](https://www.nature.com/articles/s41467-020-20544-y){:target="_blank"}
