@@ -33,6 +33,9 @@ Dhaka, Bangladesh
 
 ### Refereed Journal Articles
 
+* Nelson, L. K., Getman, R. \& **Haque, S. A.** (2021). And the Rest is History: Measuring the Scope and Recall of Wikipedia’s Coverage of Three Women’s Movement Subgroups. *Sociology Methods \& Research*, Online First
+[[link]](https://doi.org/10.1177/00491241211067514}){:target="_blank"} 
+
 * Cevik, M., **Haque, S. A.**, Manne, J., Kuppalli, K., Sax, P. E., Majumder, M. S. & Orkin C. (2021),  Gender disparities
 in COVID-19 clinical trial leadership. *Clinical Microbiology and Infection.*  
 [[link]](https://www.sciencedirect.com/science/article/pii/S1198743X20307850){:target="_blank"}
