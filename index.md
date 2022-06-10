@@ -32,7 +32,7 @@ Dhaka, Bangladesh
 -->
 
 ### Refereed Journal Articles
-* Gold, J. R., Gates, A. J., **Haque, S. A.**, Melson, M. C., Nelson, L. K., \&  Zippel, K. (2022). The NSF ADVANCE network of organizations. *ADVANCE Journal 3 (1)*. 
+* Gold, J. R., Gates, A. J., **Haque, S. A.**, Melson, M. C., Nelson, L. K. &  Zippel, K. (2022). The NSF ADVANCE network of organizations. *ADVANCE Journal 3 (1)*. 
 [[link]](https://doi.org/10.5399/osu/ADVJRNL.3.1.3){:target="_blank"} 
 
 * Nelson, L. K., Getman, R. & **Haque, S. A.** (2021). And the Rest is History: Measuring the Scope and Recall of Wikipedia’s Coverage of Three Women’s Movement Subgroups. *Sociology Methods & Research*, Online First. 
