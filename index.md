@@ -55,6 +55,9 @@ A: Statistical Mechanics and its Applications*, 469, 23-30.
 
 
 ### Refereed Conference Articles
+* Saquib, N., Huq, F., & **Haque, S. A.**(2022). graphiti: Sketch-based Graph Analytics for Images and Videos. *CHI '22: CHI Conference on Human Factors in Computing Systems.*  
+[[link]](https://doi.org/10.1145/3491102.3501923){:target="_blank"}
+
 * Chowdhury, S. S., Saquib, N., Zawad, N., Mandal, M. K., & **Haque, S. A.**(2018). Statement networks: a power structure narrative as depicted by newspapers. *Machine learning for developing world (ML4D) workshop at NeurIPS 2018.* arXiv preprint arXiv:1812.03632.  
 [[link]](https://arxiv.org/abs/1812.03632){:target="_blank"}
 
