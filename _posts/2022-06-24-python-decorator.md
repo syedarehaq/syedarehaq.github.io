@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is a python decorator"
-date:   2022-06-25 08:38:00
+date:   2022-06-24 08:38:00
 subtitle: 
 img:
 tags: [python] # add tag
