@@ -22,7 +22,8 @@ df = pd.DataFrame({"User": ["user1", "user2", "user2", "user3", "user2", "user1"
 # First create the multiple aggregation on multiple column            
 df_agg = df.groupby("User").agg({"Amount":[("total_amount","sum"),\
             ("average_amount","mean")],\
-            "Value":[("total_value","sum"),('value_std', lambda x: np.std(x))]})
+            "Value":[("total_value","sum"),\
+                      ('value_std', lambda x: np.std(x))]})
 df_agg
 ```
 
