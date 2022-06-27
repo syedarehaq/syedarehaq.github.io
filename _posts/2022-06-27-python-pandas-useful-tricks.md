@@ -36,7 +36,7 @@ user1         18.0       9.000000          11  0.500000
 user2         20.5       6.833333          15  0.816497
 user3         10.5      10.500000           4  0.000000
 ```
-The dataframe now is a grouped one and indexed by the column it is grouped by. So before calling any `reset_index`, this is how the `columns` list looks like
+The `df_agg` dataframe is a grouped or aggregated dataframe and indexed by the column(s) it is grouped by. Before calling any `reset_index`, lets see how the `columns` attribute of the grouped dataframe looks like:
 ```python
 df_agg.columns
 ```
