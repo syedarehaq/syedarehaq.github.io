@@ -72,3 +72,5 @@ df_agg
 1  user2          20.5        6.833333           15   0.816497
 2  user3          10.5       10.500000            4   0.000000
 ```
+
+Inspired by [this](https://stackoverflow.com/questions/39568965/how-to-reset-indexes-when-aggregating-multiple-columns-in-pandas) and [this](https://stackoverflow.com/questions/55817201/pandas-groupby-chaining-rename-multi-index-column-to-one-row-column) stackoverflow posts.
