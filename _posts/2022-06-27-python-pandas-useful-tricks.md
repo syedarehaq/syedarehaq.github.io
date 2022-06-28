@@ -7,7 +7,38 @@ img:
 tags: [python,pandas,dataframe] # add tag
 published: true
 ---
+### Applying a function to multiple columns of a dataframe
+```python
+import pandas as pd
 
+# Create an example dataframe
+df = pd.DataFrame({"User": ["user1", "user2", "user2", "user3", "user2", "user1"],
+                  "Amount": [10.0, 5.0, 8.0, 10.5, 7.5, 8.0],
+                  "Value":[5,4,6,4,7.5,12]})
+                  
+# Now create the function where the input is a whole row of a dataframe
+# inside each row, you can access to any column of the row using the
+# row["column_name"] format.
+def compare(row):
+    if row["Amount"] > row["Value"]:
+        return "Amount is bigger than value"
+    elif row["Amount"] < row["Value"]:
+        return "Amount is smaller than value"
+    else:
+        return "Amount is equal to the value"
+
+df["comparison"] = df.apply(compare, axis=1)
+df
+```
+```
+    User  Amount  Value                    comparison
+0  user1    10.0    5.0   Amount is bigger than value
+1  user2     5.0    4.0   Amount is bigger than value
+2  user2     8.0    6.0   Amount is bigger than value
+3  user3    10.5    4.0   Amount is bigger than value
+4  user2     7.5    7.5  Amount is equal to the value
+5  user1     8.0   12.0  Amount is smaller than value
+```
 ### Flattening a dataframe after doing multiple aggregation on multiple columns
 
 ```python
