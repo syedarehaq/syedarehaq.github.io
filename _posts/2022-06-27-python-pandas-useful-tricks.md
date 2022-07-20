@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python pandas useful tricks (updated continuously)"
+title:  "Python pandas useful tricks (this page gets updated over time)"
 date:   2022-06-27 05:46:00
 subtitle: 
 img:

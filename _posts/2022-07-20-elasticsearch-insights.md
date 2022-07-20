@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python pandas useful tricks (updated continuously)"
+title:  "Elasticsearch tidbits (this page gets updated over time)"
 date:   2022-07-20 17:17:00
 subtitle: 
 img:
