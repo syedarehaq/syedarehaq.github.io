@@ -105,3 +105,9 @@ df_agg
 ```
 
 Inspired by [this](https://stackoverflow.com/questions/39568965/how-to-reset-indexes-when-aggregating-multiple-columns-in-pandas) and [this](https://stackoverflow.com/questions/55817201/pandas-groupby-chaining-rename-multi-index-column-to-one-row-column) stackoverflow posts.
+
+### Create datetime by infrering the format of the datetime from string datetime column
+
+```python
+df["dtime"] = pd.to_datetime(df["dtime_string"], infer_datetime_format = True)
+```
