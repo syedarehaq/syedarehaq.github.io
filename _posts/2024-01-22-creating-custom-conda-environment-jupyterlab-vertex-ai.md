@@ -9,7 +9,6 @@ published: true
 ---
 ### Creating a new environment with a specific python version and then add it as a kernel in juypyterlab
 
-When limiting the search results, as in filtering the results using the `term` search, the field should be `TEXTFIELD.keyword`. This is the default behavior of the default analyzer. If we do not analyze the field, only in that case we can directly use `term` with the exact `TEXTFIELD`. Below, I am providing a correct example of how to do the filter.
 ```bash
 conda create -n environment_name python=3.10.13
 source activate environment_name
