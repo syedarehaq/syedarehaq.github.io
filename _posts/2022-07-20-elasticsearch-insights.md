@@ -21,4 +21,4 @@ When limiting the search results, as in filtering the results using the `term` s
     }
 }
 ```
-Source:[https://discuss.elastic.co/t/elastic-term-filter-not-working-when-term-contains/107301](https://discuss.elastic.co/t/elastic-term-filter-not-working-when-term-contains/107301)
+Source:[https://discuss.elastic.co/t/elastic-term-filter-not-working-when-term-contains/107301](https://discuss.elastic.co/t/elastic-term-filter-not-working-when-term-contains/107301){:target="_blank"}
