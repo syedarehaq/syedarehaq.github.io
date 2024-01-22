@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating a custom conda environment with specific python version"
-date:   2022-07-20 17:17:00
+date:   2024-01-22 16:37:00
 subtitle: 
 img:
 tags: [python,conda,environment] # add tag
