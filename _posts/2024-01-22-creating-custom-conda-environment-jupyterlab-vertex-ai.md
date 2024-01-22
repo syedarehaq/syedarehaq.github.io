@@ -16,7 +16,7 @@ source activate environment_name
 pip install ipykernel
 python -m ipykernel install --user --name environment_name
 ```
-Source:[https://stackoverflow.com/a/28840041]{https://stackoverflow.com/a/28840041}
+Source: [https://stackoverflow.com/a/28840041]{https://stackoverflow.com/a/28840041}
 
 ### Removing a kernel from the current jupyterlab environment list
 ```bash
