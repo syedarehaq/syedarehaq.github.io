@@ -16,7 +16,7 @@ source activate environment_name
 pip install ipykernel
 python -m ipykernel install --user --name environment_name
 ```
-Source: [https://stackoverflow.com/a/28840041]{https://stackoverflow.com/a/28840041}
+Source: [https://stackoverflow.com/a/28840041](https://stackoverflow.com/a/28840041)
 
 ### Removing a kernel from the current jupyterlab environment list
 ```bash
@@ -32,4 +32,4 @@ If it exists then unistall the environment with all the installed packages using
 ```
 conda remove --name environment_name --all
 ```
-Source: [https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/]{https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/}
+Source: [https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/](https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/)
