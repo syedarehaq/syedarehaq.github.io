@@ -27,7 +27,7 @@ Search for "Google Drive API" and enable it.
 
 We will utilize the pydrive2 library to access google drive contents. Here is ths script. When the script runs, first it will go to the app consent screen, you should log in to your gmail that you added in the previous configuration of the consent screen, then it should run. Make sure this same email access has at least read access to the google drive folder that you wish to crawl:
 
-```{python}
+```python
 # %%
 from pydrive2.auth import GoogleAuth
 from pydrive2.drive import GoogleDrive
