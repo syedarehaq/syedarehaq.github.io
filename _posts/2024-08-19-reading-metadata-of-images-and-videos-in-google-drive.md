@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Reading image and video metadata in google drive folders recursively"
+date:   2024-08-19 15:40:00
+subtitle: 
+img:
+tags: [python,metadata,image,video] # add tag
+published: true
+---
+## Reading image and video metadata in google drive folders recursively
+
+####
+
+```bash
+conda create -n environment_name python=3.10.13
+source activate environment_name
+pip install ipykernel
+python -m ipykernel install --user --name environment_name
+```
+Source: [https://stackoverflow.com/a/28840041](https://stackoverflow.com/a/28840041){:target="_blank"}
+
+### Removing a kernel from the current jupyterlab environment list
+```bash
+jupyter kernelspec uninstall environment_name
+```
+
+### Uninstall an environemnt from conda
+First list all the environments to see if the environment exist in conda
+```bash
+conda env list
+```
+If it exists then unistall the environment with all the installed packages using the following command
+```
+conda remove --name environment_name --all
+```
+Source: [https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/](https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/){:target="_blank"}
